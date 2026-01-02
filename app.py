@@ -154,7 +154,6 @@ with gr.Blocks(title="Objekterkennung (YOLOv5)") as demo:
 # Objekterkennung (YOLOv5)
 **So funktioniert's:** Bild hochladen → **Detect** → Ergebnis ansehen.
 
-*(Technische Messwerte werden im Hintergrund protokolliert, ohne Anzeige im Interface.)*
 """
     )
 
