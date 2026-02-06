@@ -83,58 +83,6 @@ Experimentelle Leistungsanalyse durch Vergleich von Eingabe- und Ergebnisbildern
 
 Dieses Projekt dient primär der Dokumentation und Leistungsbewertung von GPU-Leihlaptops. Eine Weiterverwendung erfolgt unter Beachtung der GPLv3-Lizenz.
 
-# README – Flan-T5 (Textgenerierung)
-
-## Projektbeschreibung
-
-Dieses Repository dokumentiert den Einsatz des Sprachmodells **Flan-T5** im Rahmen der Bachelorarbeit im Studiengang Wirtschaftsinformatik an der Hochschule für Technik und Wirtschaft Berlin (HTW Berlin).
-
-Das Projekt dient der **Erprobung von GPU-gestützten Leihlaptops** für NLP-Anwendungen sowie als niedrigschwelliger Einstieg für Studierende in die Nutzung moderner Sprachmodelle.
-
----
-
-## Art der Daten (Was?)
-
-1. **Eingabedaten**
-
-   * Texteingaben und Prompts zur Textgenerierung
-   * Konfigurationsparameter der Modellaufrufe
-
-2. **Ausgabedaten**
-
-   * Generierte Texte (Zusammenfassungen, Antworten, Transformationen)
-
-3. **Logdaten**
-
-   * Laufzeiten, Speicherverbrauch und GPU-Auslastung
-
-**Sprache:** Deutsch / Englisch (modellbedingt)
-
-**Methode:**
-Experimentelle Leistungsbewertung durch Vergleich unterschiedlicher Prompt- und Modellkonfigurationen.
-
----
-
-## Datenursprung (Wer?)
-
-* **Autor:** Studierender der HTW Berlin, Wirtschaftsinformatik (Bachelorarbeit)
-
-* **Eingabebilder (Testdaten):**
-  Die verwendeten Eingabebilder wurden aus öffentlich zugänglichen Internetquellen bezogen und dienen ausschließlich als **technische Test- und Referenzdaten** für die Leistungsbewertung der GPU-gestützten Leihlaptops. Eine inhaltliche Analyse der Bilder erfolgte nicht.
-
-* **Ergebnisbilder (Bounding Boxes):**
-  Die Ergebnisbilder wurden durch die Anwendung des YOLO-Modells vom Autor selbst erzeugt und stellen **abgeleitete Daten** dar.
-
-* **Log- und Messdaten:**
-  Die Performance-Logs wurden vollständig selbst erhoben.
-
-* **Lizenz:**
-
-  * **Code & Logs:** GNU General Public License v3.0
-  * **Eingabebilder:** Nicht Bestandteil der Projektlizenz; unterliegen ggf. separaten Urheberrechten
-  * **Ergebnisbilder:** GNU General Public License v3.0
-
----
 
 ## Hinweis zur Nachnutzung
 
