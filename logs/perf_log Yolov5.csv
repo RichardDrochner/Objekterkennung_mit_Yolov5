@@ -1,0 +1,8 @@
+timestamp,device,model,infer_ms,vram_peak_mb,ram_used_mb,ram_total_mb,gpu_name,gpu_load_pct,gpu_temp_c,gpu_mem_used_mb,gpu_mem_total_mb
+2026-02-04T17:19:18,cuda,yolov5n,1135.67,51.0,7680.9,16183.7,NVIDIA GeForce RTX 2060 with Max-Q Design,0.0,38.0,181.0,6144.0
+2026-02-04T17:22:12,cuda,yolov5n,1010.56,38.4,7947.9,16183.7,NVIDIA GeForce RTX 2060 with Max-Q Design,0.0,38.0,181.0,6144.0
+2026-02-04T17:24:06,cuda,yolov5n,981.54,47.6,7995.0,16183.7,NVIDIA GeForce RTX 2060 with Max-Q Design,0.0,38.0,181.0,6144.0
+2026-02-04T17:24:18,cuda,yolov5n,1150.53,41.0,7991.1,16183.7,NVIDIA GeForce RTX 2060 with Max-Q Design,0.0,39.0,181.0,6144.0
+2026-02-04T17:24:34,cuda,yolov5n,1142.29,41.0,7982.0,16183.7,NVIDIA GeForce RTX 2060 with Max-Q Design,0.0,40.0,181.0,6144.0
+2026-02-04T17:24:55,cuda,yolov5n,977.33,38.4,8014.9,16183.7,NVIDIA GeForce RTX 2060 with Max-Q Design,0.0,40.0,181.0,6144.0
+2026-02-04T17:25:05,cuda,yolov5n,61.02,51.0,8019.0,16183.7,NVIDIA GeForce RTX 2060 with Max-Q Design,0.0,40.0,181.0,6144.0
